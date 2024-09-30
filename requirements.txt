@@ -6,4 +6,5 @@ scikit-learn==1.5.1
 matplotlib==3.9.1
 streamlit
 plotly==5.22.0
+openpyxl
 
